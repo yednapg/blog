@@ -19,13 +19,12 @@ function HomePage() {
           <p>Deploy your own in a few minutes.</p>
         </div>
       </Container>
-
-      <div className="container max-w-4xl m-auto px-4 mt-20">
+      <div className="container max-w-4xl m-auto px-4 mt-10">
         <Image
           src="/desk.jpg"
-          alt="my desk"
-          width={1920 / 2}
-          height={1280 / 2}
+          width={1920}
+          height={1080}
+          alt="Desk"
         />
       </div>
     </>
