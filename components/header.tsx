@@ -3,12 +3,14 @@ import Container from '../components/container'
 
 export default function Header() {
   return (
-    <header className="py-6">
+    <header className="py-5">
       <Container>
-        <nav className="flex space-x-8">
+        <nav className="flex justify-between items-center">
           <Link href="/"><b>Gaurav Pandey</b></Link>
-          <Link href="/about">About</Link>
-          <Link href="/posts">Posts</Link>
+          <div className="flex items-center">
+            <Link href="/about" className="ml-4">About</Link>
+            <Link href="/posts" className="ml-4">Posts</Link>
+          </div>
         </nav>
       </Container>
     </header>
