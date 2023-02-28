@@ -16,7 +16,7 @@ function HomePage() {
             <br/><br/>
             machine learning has seriously changed my life. I began coding when I was in the ninth grade, and since then I've been invited to give international talks in Florence, Salt Lake City, Singapore, and London.
           </p>
-
+          <br/>
           <p>Say Hi! at: gaurav@codeday.org</p>
         </div>
       </Container>

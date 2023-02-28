@@ -7,9 +7,9 @@ export default function Header() {
       <Container>
         <nav className="flex justify-between items-center">
           <img src="/logo.png" alt="logo" className="img"/>
-          <div className="flex items-center">
-            <Link href="/about" className="ml-4">/about</Link>
-            <Link href="/posts" className="ml-4">/posts</Link>
+          <div className="flex items-center social-icons">
+          <a href="https://github.com/yednapg"><img src="icons8-github.svg" alt="GitHub"/></a>
+          <a href="https://twitter.com/yednapg"><img src="icons8-twitter.svg" alt="Twitter"/></a>
           </div>
         </nav>
       </Container>
