@@ -1,16 +1,12 @@
 import Container from '../components/container'
 import Image from 'next/image'
-import type { InferGetStaticPropsType } from 'next'
-import Link from 'next/link'
-import distanceToNow from '../lib/dateRelative'
-import { getAllPosts } from '../lib/getPost'
 
 function HomePage() {
   return (
     <>
       <Container>
-        <div className="space-y-6">
-          <h1 className="text-3xl font-bold">
+        <div className="space-y-1 max-w-2xl m-auto px-4">
+          <h1 className="text-2xl font-bold">
             Hi, I am Gaurav!
           </h1>
           <p>
@@ -24,7 +20,7 @@ function HomePage() {
           <p>Say Hi! at: gaurav@codeday.org</p>
         </div>
       </Container>
-      <div className="container max-w-4xl m-auto px-4 mt-10">
+      <div className="container max-w-2xl m-auto px-4 mt-10">
         <Image
           src="/desk.jpg"
           width={1920}
