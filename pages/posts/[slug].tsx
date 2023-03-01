@@ -19,26 +19,25 @@ export default function PostPage({
   return (
     <Container>
       <Head>
-        <title>{post.title} | My awesome blog</title>
+        <title>{post.title} | Gaurav Pandey</title>
       </Head>
 
       {router.isFallback ? (
         <div>Loading…</div>
       ) : (
-        <div>
+        <div className="space-y-9 max-w-2xl m-auto px-4">
           <article>
             <header>
-              <h1 className="text-4xl font-bold">{post.title}</h1>
+              <h1 className="text-3xl font-bold">{post.title}</h1>
               {post.excerpt ? (
-                <p className="mt-2 text-xl">{post.excerpt}</p>
+                <p className="mt-4">{post.excerpt}</p>
               ) : null}
-              <time className="flex mt-2 text-gray-400">
+              <time className="flex mt-4 text-gray-400">
                 {distanceToNow(new Date(post.date))}
               </time>
             </header>
-
             <div
-              className="prose mt-10"
+              className="prose mt-4"
               dangerouslySetInnerHTML={{ __html: post.content }}
             />
           </article>

@@ -1,18 +1,22 @@
 ---
-title: "At the Sign of the Prancing Pony"
+title: "Lorem Ipsum"
 excerpt: "The Hobbits reach the The Prancing Pony inn at Bree, where Frodo uses
 a false name, Underhill."
 date: "2021-03-03"
 ---
 
-Placeat consequuntur ullam aut sapiente illo velit. Eius facere ut molestias
-totam laborum pariatur quam. Praesentium quo veritatis expedita animi.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Quite anything glass benefit. Such form clearly top tend can require my. Federal
-degree sort performance region maintain.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Ut dignissimos sapiente culpa rerum pariatur consequatur. Corporis suscipit ad
-corrupti aut. Expedita culpa aut deleniti officiis.
+```python
+>>> def add(a,b):
+        a = "Welcome to my website, "
+        b = "Your Name"
+        sum = a + b
+        print(sum)
+>>> sum(a,b)
+Welcome to my website, [your name]
+```
 
-Porro eum id sit quia expedita. Alias expedita asperiores. Corporis ex eum atque
-cum ea.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
