@@ -23,14 +23,14 @@ function HomePage() {
           <p>Say Hi! at: <a href='mailto:yednapg@gmail.com'>yednapg@gmail.com</a></p>
         </div>
       </Container>
-      <div className="container max-w-2xl m-auto px-4 mt-10">
+      {/* <div className="container max-w-2xl m-auto px-4 mt-10">
         <Image
           src="/desk.jpg"
           width={1920}
           height={1080}
           alt="Desk"
         />
-      </div>
+      </div> */}
     </>
   )
 }
