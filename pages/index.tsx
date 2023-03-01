@@ -9,7 +9,7 @@ function HomePage() {
           <h1 className="text-3xl font-bold">
             Hi, I am Gaurav!
           </h1>
-          <div className="max-w-2xl m-auto px-4 mt-10">
+          <div>
             <Image
             src="/gaurav.png"
             width={1920}
