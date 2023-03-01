@@ -11,7 +11,7 @@ export default function NotePage({
     <Container>
       {allPosts.length ? (
         allPosts.map((post) => (
-          <article key={post.slug} className="mb-10">
+          <article key={post.slug} className="mb-10 space-y-4 max-w-2xl m-auto px-4">
             <Link
               as={`/posts/${post.slug}`}
               href="/posts/[slug]"
