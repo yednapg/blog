@@ -9,6 +9,14 @@ function HomePage() {
           <h1 className="text-3xl font-bold">
             Hi, I am Gaurav!
           </h1>
+          <div className="max-w-2xl m-auto px-4 mt-10">
+            <Image
+            src="/gaurav.png"
+            width={1920}
+            height={1080}
+            alt="Desk"
+            />
+          </div>
           <p className="mt-4">
             a high school junior from New Delhi, India. I work at <a href='https://codeday.org'>CodeDay</a>, where I work to provide welcoming and diverse opportunities for underserved students to explore a future in tech and beyond.
             <br/><br/>
@@ -23,14 +31,7 @@ function HomePage() {
           <p>Say Hi! at: <a href='mailto:yednapg@gmail.com' className='color'>yednapg@gmail.com</a></p>
         </div>
       </Container>
-      {/* <div className="container max-w-2xl m-auto px-4 mt-10">
-        <Image
-          src="/desk.jpg"
-          width={1920}
-          height={1080}
-          alt="Desk"
-        />
-      </div> */}
+
     </>
   )
 }
