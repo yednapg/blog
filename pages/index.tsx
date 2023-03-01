@@ -14,13 +14,13 @@ function HomePage() {
             <br/><br/>
             since 2007, I've done everything from living in the snowy mountains and hiking in the beautiful hills of Uttarakhand to studying in India's capital city and travelling to Florence and Rome. I find joy in ambiguity and feel more engaged when working on problems that can be solved by mainly exploring the web or reading a book.
             <br/><br/>
-            <a href='/posts'>[Posts]</a>
+            <a href='/posts' className='color'>[Posts]</a>
             <br />
-            <a href='/newsletter'>[Newsletter]</a>
+            <a href='/newsletter' className='color'>[Newsletter]</a>
             <br /><br />
             computers has seriously changed my life. I began coding when I was in the ninth grade, and since then I've been invited to give talk in Florence, Salt Lake City, Singapore, and London.
           </p>
-          <p>Say Hi! at: <a href='mailto:yednapg@gmail.com'>yednapg@gmail.com</a></p>
+          <p>Say Hi! at: <a href='mailto:yednapg@gmail.com' className='color'>yednapg@gmail.com</a></p>
         </div>
       </Container>
       {/* <div className="container max-w-2xl m-auto px-4 mt-10">

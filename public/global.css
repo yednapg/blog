@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap');
 
 * {
-    font-family: 'Fira Code';
+    font-family: 'Fira Code', monospace;
     background-color: black;
     color: white;
     font-size: 18px; 
@@ -15,11 +16,6 @@
 
 .social-icons {
     gap: 5px;
-}
-
-a{
-    color: #03FFFF;
-    text-decoration: none;
 }
 
 .color{
