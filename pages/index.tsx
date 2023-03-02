@@ -7,7 +7,7 @@ function HomePage() {
       <Container>
         <div className="space-y-4 max-w-2xl m-auto px-4">
           <h1 className="text-3xl font-bold">
-            Hi, I am Gaurav!
+           >>>print("Hey, I'm Gaurav Pandey!")
           </h1>
           <div>
             <Image
