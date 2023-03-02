@@ -20,8 +20,12 @@
     gap: 10px;
 }
 
-.color{
+.blue{
     color: #03FFFF;
+}
+
+.pink{
+    color: #FF00FF;
 }
 
 .nav-text {

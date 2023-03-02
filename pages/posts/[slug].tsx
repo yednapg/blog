@@ -32,7 +32,7 @@ export default function PostPage({
               {post.excerpt ? (
                 <p className="mt-4">{post.excerpt}</p>
               ) : null}
-              <time className="flex mt-4 color">
+              <time className="flex mt-4 blue">
                 {distanceToNow(new Date(post.date))}
               </time>
             </header>

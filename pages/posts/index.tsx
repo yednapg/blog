@@ -15,13 +15,13 @@ export default function NotePage({
             <Link
               as={`/posts/${post.slug}`}
               href="/posts/[slug]"
-              className="text-lg leading-6 color font-bold"
+              className="text-lg leading-6 blue font-bold"
             >
               {post.title}
             </Link>
             <p>{post.excerpt}</p>
             <div>
-              <time className='color'>{distanceToNow(new Date(post.date))}</time>
+              <time className='blue'>{distanceToNow(new Date(post.date))}</time>
             </div>
           </article>
         ))
