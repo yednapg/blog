@@ -26,7 +26,7 @@ function HomePage() {
             <br />
             <a href='/newsletter' className='blue'>[Newsletter]</a>
             <br /><br />
-            computers has seriously changed my life. I began coding when I was in the ninth grade, and since then I've been invited to give talk in Florence, Salt Lake City, Singapore, and London.
+            computers has seriously changed my life. I began coding when I was in the ninth grade, and since then I've been invited to give talk in Florence, Salt Lake City, Singapore, Seattle, and London.
           </p>
           <p>Say Hi! at: <a href='mailto:yednapg@gmail.com' className='pink'>yednapg@gmail.com</a></p>
         </div>
