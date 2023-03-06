@@ -7,7 +7,7 @@ function HomePage() {
       <Container>
         <div className="space-y-4 max-w-2xl m-auto px-4">
           <h1 className="text-3xl font-bold">
-           print("Hey, I'm Gaurav a.k.a GP!")
+           <code>print("Hey, I'm Gaurav a.k.a GP!")</code>
           </h1>
           <div>
             <Image
