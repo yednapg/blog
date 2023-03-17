@@ -8,8 +8,13 @@ export default function Header() {
         <nav className="flex justify-between items-center">
           <Link href="/" className="nav-text font-bold">!@#$%^&*()</Link>
           <div className="flex items-center social-icons">
-            <a href="https://github.com/yednapg"><img src="../icons8-github.svg" alt="GitHub"/></a>
-            <a href="https://twitter.com/yednapg"><img src="../icons8-twitter.svg" alt="Twitter"/></a>
+            {/* <a href="https://github.com/yednapg"><img src="../icons8-github.svg" alt="GitHub"/></a> */}
+            {/* <a href="https://twitter.com/yednapg"><img src="../icons8-twitter.svg" alt="Twitter"/></a> */}
+            <Link href="/posts" className="text-decoration">Posts</Link>
+            <Link href="/" className="text-decoration">Projects</Link>
+            <Link href="/" className="text-decoration">Links</Link>
+            <Link href="/" className="text-decoration">Talks</Link>
+            <Link href="/" className="text-decoration">Newsletter</Link>
           </div>
         </nav>
       </Container>

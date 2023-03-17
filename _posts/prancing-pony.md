@@ -7,11 +7,9 @@ Building websites nowadays is just like building your place on the internet but 
 
 In this article, we’re going to learn How you could build better Websites?. Let’s start with *What is meant by better websites?*.
 
-# My Awesome Website
+## What should a website look like?
 
 Best Website means a website that is fast, attractive, easy to use, responsive, and has good quality content and Extra-Ordinary SEO.
-
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1652598056020/qVS7TBu1C.png" align="left"/>
 
 #### 1. Fast
 
@@ -37,8 +35,6 @@ Responsive Web Design uses HTML and CSS to automatically resize, hide, shrink, o
 ## Best resources for building better Websites!
 
 Building a better website is a headache as I said, but there are lots of open-source tools are available around us which might help in the building process. A good tool improves the way you work. A great tool improves the way you think - *Jeff Duntemann*
-
-![better.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652597670143/LDgBJmUxh.png align="left")
 
 #### 1. Figma
 It is one of the most powerful tools for designing Websites, It has lots of features that enable its user to design a prototype of a website. Most Tech brands use it such as GitHub, etc. Figma is the best place for beginners to design their websites and has a steep learning curve. 
