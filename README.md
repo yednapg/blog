@@ -15,4 +15,4 @@ since 2007, I've done everything from living in the snowy mountains and hiking i
 
 computers has seriously changed my life. I began coding when I was in the ninth grade, and since then I've been invited to give talk in Florence, Salt Lake City, Singapore, Seattle and London.
 
-Say Hi! at: yednapg@gmail.com
+Say Hi! at: hey@pandeygaurav.com

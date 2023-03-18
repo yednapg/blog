@@ -28,7 +28,7 @@ function HomePage() {
             <br /><br />
             computers has seriously changed my life. I began coding when I was in the ninth grade, and since then I've been invited to give talk in Florence, Salt Lake City, Singapore, Seattle, and London.
           </p>
-          <p>Say Hi! at: <a href='mailto:yednapg@gmail.com' className='pink'>yednapg@gmail.com</a></p>
+          <p>Say Hi! at: <a href='mailto:hey@pandeygaurav.com' className='pink'>hey@pandeygaurav.com</a></p>
         </div>
       </Container>
 
