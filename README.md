@@ -9,7 +9,7 @@ a high school junior from New Delhi, India. I work at [CodeDay]("https://codeday
 
 since 2007, I've done everything from living in the snowy mountains and hiking in the beautiful hills of Uttarakhand to studying in India's capital city and travelling to Florence and Rome. I find joy in ambiguity and feel more engaged when working on problems that can be solved by mainly exploring the web or reading a book.
 
-[[Posts]]("https://yednapg.vercel.app/posts")
+[[Posts]]("https://pandeygaurav.com/posts")
 <br>
 [[Newsletter]]("/")
 
