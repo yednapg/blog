@@ -22,9 +22,9 @@ function HomePage() {
             <br/><br/>
             since 2007, I've done everything from living in the snowy mountains and hiking in the beautiful hills of Uttarakhand to studying in India's capital city and travelling to Florence and Rome. I find joy in ambiguity and feel more engaged when working on problems that can be solved by mainly exploring the web or reading a book.
             <br/><br/>
-            <a href='/posts' className='blue'>[Posts]</a>
+            <a href='/posts' className='text-decoration'>[Posts]</a>
             <br />
-            <a href='/newsletter' className='blue'>[Newsletter]</a>
+            <a href='/newsletter' className='text-decoration'>[Newsletter]</a>
             <br /><br />
             computers has seriously changed my life. I began coding when I was in the ninth grade, and since then I've been invited to give talk in Florence, Salt Lake City, Singapore, Seattle, and London.
           </p>
