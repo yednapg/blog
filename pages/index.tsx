@@ -6,29 +6,26 @@ function HomePage() {
     <>
       <Container>
         <div className="space-y-4 max-w-2xl m-auto px-4">
-          <h1 className="text-3xl font-bold">
-           print("Hey, I'm Gaurav!")
+          <h1 className="text-2xl font-bold code-text">
+           print("profile loading .. .. . 404 error")
           </h1>
-          {/* <div>
+          <div>
             <Image
             src="/gaurav.png"
             width={1920}
             height={1080}
             alt="Desk"
             />
-          </div> */}
+          </div>
           <p className="mt-4">
-            a high school junior from New Delhi, India. I work at <a href='https://codeday.org' className='pink'>CodeDay</a>, where I work to provide welcoming and diverse opportunities for underserved students to explore a future in tech and beyond.
+            Hi 👋, I'm Gaurav. I'm a 16-year-old high schooler from New Delhi, India. I work as a community engineer at Hack Club and at CodeDay, where I work to provide welcoming and diverse opportunities for undeserved students to explore a future in tech and beyond. 
             <br/><br/>
-            since 2007, I've done everything from living in the snowy mountains and hiking in the beautiful hills of Uttarakhand to studying in India's capital city and travelling to Florence and Rome. I find joy in ambiguity and feel more engaged when working on problems that can be solved by mainly exploring the web or reading a book.
+            Since 2007, I've done a lot of things, from spending my 5 years of life in the snowy mountains to playing in the beautiful hills of Uttarakhand to studying in India's capital city and travelling to Rome, Florence, Pisa, Vatican City, Helsinki, San Francisco, and Salt Lake City. I find joy in ambiguity and feel more engaged when working on problems that can be solved by mainly exploring the web or reading a book. 
             <br/><br/>
-            <a href='/posts' className='text-decoration'>[Posts]</a>
-            <br />
-            <a href='/newsletter' className='text-decoration'>[Newsletter]</a>
-            <br /><br />
-            computers has seriously changed my life. I began coding when I was in the ninth grade, and since then I've been invited to give talk in Florence, Salt Lake City, Singapore, Seattle, and London.
+            Computers have seriously changed my life. I began coding when I was 12, and since then I've been invited to speak at international conferences in Florence, Salt Lake City, Singapore, Seattle, and London. 
           </p>
           <p>Say Hi! at: <a href='mailto:hiy@pandeygaurav.com' className='pink'>hi@pandeygaurav.com</a></p>
+          <p>PS: I love Music, Art and Switzerland</p>
         </div>
       </Container>
 
