@@ -20,7 +20,7 @@ function HomePage() {
           <p className="mt-4">
             Hi 👋, I'm Gaurav. I'm a 16-year-old high schooler from New Delhi, India. I work as a community engineer at Hack Club and at CodeDay, where I work to provide welcoming and diverse opportunities for undeserved students to explore a future in tech and beyond. 
             <br/><br/>
-            Since 2007, I've done a lot of things, from spending my 5 years of life in the snowy mountains to playing in the beautiful hills of Uttarakhand to studying in India's capital city and travelling to Rome, Florence, Pisa, Vatican City, Helsinki, San Francisco, and Salt Lake City. I find joy in ambiguity and feel more engaged when working on problems that can be solved by mainly exploring the web or reading a book. 
+            Since 2007, I've done a lot of things, from spending my 5 years of life in the snowy mountains to playing in the beautiful hills of Uttarakhand. I find joy in ambiguity and feel more engaged when working on problems that can be solved by mainly exploring the web or reading a book. 
             <br/><br/>
             Computers have seriously changed my life. I began coding when I was 12, and since then I've been invited to speak at international conferences in Florence, Salt Lake City, Singapore, Seattle, and London. 
           </p>
