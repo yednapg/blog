@@ -3,8 +3,6 @@ import '../public/global.css';
 import type { AppProps } from 'next/app'
 import Head from 'next/head'
 import Header from '../components/header'
-import type { AppProps } from "next/app";
-import type { AppProps } from "next/app";
 import React from "react";
 
 export default function MyApp({ Component, pageProps }: AppProps) {
