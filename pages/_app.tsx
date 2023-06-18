@@ -4,6 +4,8 @@ import type { AppProps } from 'next/app'
 import Head from 'next/head'
 import Header from '../components/header'
 import React from "react";
+import Script from 'next/script';
+
 
 export default function MyApp({ Component, pageProps }: AppProps) {
   return (
@@ -22,17 +24,17 @@ export default function MyApp({ Component, pageProps }: AppProps) {
         <Component {...pageProps} />
       </main>
       <React.Fragment>
-      <Component {...pageProps} />
-      <Script src="https://scripts.simpleanalyticscdn.com/latest.js"  />
-      <noscript>
-        {/* eslint-disable @next/next/no-img-element */}
-        <img
-          src="https://queue.simpleanalyticscdn.com/noscript.gif"
-          alt=""
-          referrerPolicy="no-referrer-when-downgrade"
-        />
-      </noscript>
-    </React.Fragment>
+        <Component {...pageProps} />
+        <Script src="https://scripts.simpleanalyticscdn.com/latest.js" />
+        <noscript>
+          {/* eslint-disable @next/next/no-img-element */}
+          <img
+            src="https://queue.simpleanalyticscdn.com/noscript.gif"
+            alt=""
+            referrerPolicy="no-referrer-when-downgrade"
+          />
+        </noscript>
+      </React.Fragment>
     </>
   )
 }
