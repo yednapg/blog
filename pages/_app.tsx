@@ -23,8 +23,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
       <main className="py-7">
         <Component {...pageProps} />
       </main>
-      <React.Fragment>
-        <Component {...pageProps} />
+      <React.Fragment >
         <Script src="https://scripts.simpleanalyticscdn.com/latest.js" />
         <noscript>
           {/* eslint-disable @next/next/no-img-element */}
