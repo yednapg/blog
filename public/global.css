@@ -1,16 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap');
 * {
-    font-family: -apple-system,BlinkMacSystemFont,sans-serif !important;
+    font-family: Fira Code !important;
     font-size: 18px;
     font-weight: 500;
 }
 
 .font-bold {
     font-weight: 600;
-}
-
-.code-text{
-    font-family: Fira Code !important;
 }
 
 .img {
