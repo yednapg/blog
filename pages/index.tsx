@@ -24,7 +24,7 @@ function HomePage() {
             <br/><br/>
             Say Hi! at: <a href='mailto:hi@pandeygaurav.com' className='pink'>hi@pandeygaurav.com</a>
             <br/><br />
-            Note: Computers have seriously changed my life. I began coding when I was 12, and since then I've been invited to speak at international conferences in Florence, Salt Lake City, Singapore, Seattle, and London. PS: I love Music, Art and Switzerland.</p>
+            Note: Computers have seriously changed my life. I began coding when I was 12, and since then I've been invited to speak at international conferences in Florence, Salt Lake City, Singapore, Seattle, and London. PS: I love Vim, Music, Art and Switzerland.</p>
         </div>
       </Container>
     </>
