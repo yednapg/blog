@@ -26,7 +26,7 @@ function HomePage() {
             <br/><br />
             Note: Computers have seriously changed my life. I began coding when I was 12, and since then I've been invited to speak at international conferences in Florence, Salt Lake City, Singapore, Seattle, and London. 
 			<br/>< br/>
-			PS: I love Vim, Music, Art and Switzerland 💛🧡❤️💜💙🩵💚🩶.</p>
+			PS: I love Linux, Vim, Python, Art, and Indian Food. 💛🧡❤️💜💙🩵💚🩶</p>
         </div>
       </Container>
     </>
