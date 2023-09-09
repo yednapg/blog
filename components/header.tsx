@@ -3,10 +3,10 @@ import Container from '../components/container'
 
 export default function Header() {
   return (
-    <header className="py-6">
+    <header className="py-6 mobile">
       <Container>
         <nav className="flex justify-between items-center">
-          <Link href="/" className="nav-text font-bold">Gaurav Pandey</Link>
+          <Link href="/" className="nav-text font-bold">@yednapg</Link>
           <div className="flex items-center social-text">
             <a href="https://github.com/yednapg">~/github</a>
             <a href="https://linkedin.com/in/yednapg">~/linkedin</a>

@@ -20,7 +20,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
       </Head>
 
       <Header />
-      <main className="py-7">
+      <main className="py-1">
         <Component {...pageProps} />
       </main>
       <React.Fragment >

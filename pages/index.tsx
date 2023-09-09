@@ -5,7 +5,7 @@ function HomePage() {
   return (
     <>
       <Container>
-        <div className="space-y-4 max-w-7xl m-auto">
+        <div className="space-y-1 max-w-7xl m-auto mobile">
           {/* <h1 className="text-2xl font-bold code-text">
            print("profile loading .. .. . 404 error")
           </h1> */}
@@ -18,7 +18,7 @@ function HomePage() {
             />
           </div> */}
           <p>
-            Hi 👋, I'm Gaurav. I'm a 16-year-old high schooler from New Delhi, India. I work as a community engineer at Hack Club. I am also a Code Evanglist at CodeDay, where I work to provide welcoming and diverse opportunities for undeserved students to explore a future in tech and beyond. 
+            Hi 👋, I'm Gaurav Pandey. I'm a 16-year-old high schooler from New Delhi, India. I work as a community engineer at Hack Club. I am also a Code Evanglist at CodeDay, where I work to provide welcoming and diverse opportunities for undeserved students to explore a future in tech and beyond. 
             <br/><br/>
             Since 2007, I've done a lot of things, from spending my 5 years of life in the snowy mountains to playing in the beautiful hills of Uttarakhand. I find joy in ambiguity and feel more engaged when working on problems that can be solved by mainly exploring the web or through programming. 
             <br/><br/>

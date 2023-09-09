@@ -10,6 +10,11 @@
     font-weight: 600;
 }
 
+.mobile {
+	margin-left: 17px;
+	margin-right: 17px;
+}
+
 .img {
     width: 35%;
     height: 100%;   
@@ -17,7 +22,7 @@
 
 .social-text {
     font-size: 24px;
-    gap: 10px;
+    gap: 12px;
 }
 
 .text-decoration{
