@@ -3,7 +3,11 @@
 * {
     font-family: 'IBM Plex Mono', monospace !important;
     font-size: 18px;
-    font-weight: 500;
+    font-weight: 400;
+}
+
+.image {
+    padding-right: 3%;
 }
 
 .font-bold {
